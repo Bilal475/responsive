@@ -1,0 +1,68 @@
+*{
+    color: green;
+}
+.head{
+    color: #E040FB;
+    text-align: center;
+    text-decoration: underline !important;
+   font-size: 50px;
+    text-shadow: 2px 2px 4px black !important;
+}
+.detail1{
+    font-size: 32px;
+    font-weight: bold;
+    margin-bottom: 40px;
+    padding-left: 280px;
+}
+.set{
+    padding: 0px 300px;
+}
+.detail2,.detail3{
+    font-size: 25px;
+    font-weight: bold;
+    margin-bottom: 40px;
+}
+.fa-phone{
+    font-size: 32px;
+    padding-left: 105px;
+}
+.fa-envelope{
+    font-size: 32px;
+    padding-left: 30px;
+}
+.fa-phone:hover{
+    color: red;
+}
+.fa-envelope:hover{
+    color: brown;
+}
+.fa-map-marker{
+    font-size: 30px;
+    padding-left: 50px;
+}
+.fa-map-marker:hover{
+    color: brown;
+}
+.arrange{
+    padding: 0px 200px;
+}
+.fa-clock-o{
+    font-size: 30px;
+    padding-left: 115px;
+}
+.fa-clock-o:hover{
+    color: red;
+}
+/* @media only screen and (max-width: 650px){
+   
+        margin: 0px;
+        padding: 0px;
+     .responsive{
+        padding: 0px !important;
+        margin: 0px !important;
+    }
+    .detail2,.detail3{
+        padding: 0px !important;
+        margin: 0px !important;
+        margin-bottom: 0px;
+    }} */
